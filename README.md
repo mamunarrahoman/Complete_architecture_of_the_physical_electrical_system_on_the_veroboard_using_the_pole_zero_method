@@ -1,0 +1,2 @@
+- Project Name  : Complete architecture of the physical electrical system on the veroboard using the pole zero method.
+- Weblink       : https://sites.google.com/view/mamunar/project/control_vero
